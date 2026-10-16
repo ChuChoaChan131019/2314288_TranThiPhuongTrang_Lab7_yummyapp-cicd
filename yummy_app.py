@@ -66,5 +66,4 @@ class YummyApp:
         except gps_service.GPSSignalLostError:
             return "Khong the xac dinh vi tri."
         
-    def broken_function(self):
-        pass
+    def broken_function(
